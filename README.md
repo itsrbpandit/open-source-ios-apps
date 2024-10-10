@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1558-green.svg) ![](https://img.shields.io/badge/Updated-October%2010,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2539,11 +2539,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/418dc9f3-3670-4074-8cd8-af7397b8aa58'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`1353` 
-- [PrivacyBlur](https://github.com/MATHEMA-GmbH/privacyblur): Obfuscate sensitive data in your pictures before sharing them online. 
-  - <a href=https://privacyblur.app/>`https://privacyblur.app/`</a>
-  - [` App Store`](https://apps.apple.com/app/privacyblur/id1536274106) <a href='https://privacyblur.app/assets/case_9.png'>`Screenshot 1`</a>  <a href='https://privacyblur.app/assets/case_2.png'>`Screenshot 2`</a> 
-  -  `2022` 
-  -  ☆`144` 
 - [Screenshotter](https://github.com/rsattar/screenshotter): Organize & manage screenshots
   - [` App Store`](https://apps.apple.com/app/screenshotter-organize-manage/id826596892) <a href='https://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'>`Screenshot 1`</a> 
   -  `2017` `iphone` 
@@ -4771,6 +4766,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`43` 
+- [fullmoon](https://github.com/mainframecomputer/fullmoon-ios): Chat with private and local large language models
+  -  <a href='https://fullmoon.app/images/app.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `mlx` 
 - [GitHub User Search](https://github.com/ra1028/SwiftUI-Combine)
   -  <a href='https://github.com/ra1028/SwiftUI-Combine/raw/master/assets/sample.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `swiftui` `combine` 
